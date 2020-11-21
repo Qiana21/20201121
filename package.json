@@ -1,0 +1,25 @@
+{
+  "name": "20201121",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Qiana": "lessc css/index.less/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qiana21/20201121.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qiana21/20201121/issues"
+  },
+  "homepage": "https://github.com/Qiana21/20201121#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "less": "^3.12.2"
+  }
+}
